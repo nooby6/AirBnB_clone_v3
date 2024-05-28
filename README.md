@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Audrine Whrite - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_o
-Second part of Airbnb: Joann Vuong
+Audrine Whrite - [Github](https://github.com/nooby6) / [Twitter](https://x.com/AudrineWhrite)
+Second part of Airbnb: Audrine Whrite
 ## License
-Public Domain. No copy write protection. 
+##Public Domain. No copy write protection. 
